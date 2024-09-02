@@ -70,7 +70,7 @@ div.container {
   align-items: center;
   min-height: 100vh;
   align-items: center;
-  background: url(/images/logos/background.png);
+  background: url(images/logos/background.png);
 }
 .main-responsive {
   display: none;
@@ -194,7 +194,7 @@ div.container {
   justify-content: center;
 }
 .icon-container {
-  background-image: url("/images/logos/img.jpg");
+  background-image: url("images/logos/img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
@@ -656,7 +656,7 @@ div.container {
   margin-top: 2rem;
   grid-area: contact;
   clip-path: polygon(0 0, 100% 50px, 100% 100%, 0 100%);
-  background: url(/images/logos/contact-bg.png);
+  background: url(images/logos/contact-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-color: #333;
